@@ -1,0 +1,13 @@
+Bob,13.5,1
+Jim,34.3,2
+John,23.2,1
+Jacob,29.1,2
+Job,44.0,1
+kev,49.0,1
+Joe,90.0,1
+James,52.0,1
+Zechariah,66.0,1
+David,55.0,1
+Daniel,102.0,1
+Kevin,70.0,1
+barz,107.0,1
